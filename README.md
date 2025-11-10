@@ -19,8 +19,14 @@ Stay on top of your Mac’s performance with RingsMonitor. Multiple translucent 
 <img width="283" height="950" alt="All" src="https://github.com/user-attachments/assets/6884151d-26e9-4eee-a41c-cc22babc323c" />
 
 
+
+
 - Relocating the views on Desktop
 <img width="1786" height="1039" alt="relocation" src="https://github.com/user-attachments/assets/8f6c3e31-4fd6-42bd-952b-2109cdc23566" />
+
+
+
+
 
 
 - Customise settings
