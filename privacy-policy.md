@@ -1,0 +1,5 @@
+No data or personal information is collected by RingsMonitor app 
+
+** Contact
+If you have any questions about this Privacy Policy, you can contact us by opening an issue on our GitHub repo:
+https://github.com/DevApp11/RingsMonitor
