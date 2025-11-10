@@ -1,5 +1,5 @@
 # RingsMonitor
-RingsMonitor is a lightweight macOS system companion that surfaces real-time CPU, memory, storage, network, and battery insights in elegant concentric widgets
+RingsMonitor is a lightweight macOS app that surfaces real-time CPU, memory, storage, network, and battery insights in elegant concentric widgets
 
 # Description
 Stay on top of your Mac’s performance with RingsMonitor. Multiple translucent widgets showcase CPU cores, memory pressure, battery health, network throughput, and disk capacity—each rendered as animated rings that float above the desktop without distracting from your workflow. Tailor transparency, colors, and placement to match your setup, and rely on privacy-respecting diagnostics that run locally on your Mac.
