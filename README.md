@@ -16,7 +16,7 @@ Stay on top of your Mac’s performance with RingsMonitor. Multiple translucent 
 - All views
 <img width="1780" height="1041" alt="all views" src="https://github.com/user-attachments/assets/85593df6-e8fc-451f-aafe-15dcd19301e9" />
 
-- Customise the widget background
+- Customise widget background
 <img width="1785" height="1046" alt="real" src="https://github.com/user-attachments/assets/3ac1114d-90eb-4627-a6fa-9ad8e1cb8c7a" />
 
 
