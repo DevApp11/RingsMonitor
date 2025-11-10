@@ -11,3 +11,12 @@ Stay on top of your Mac’s performance with RingsMonitor. Multiple translucent 
 ## Compatibility
 - **Platforms**: macOS 12.0 Monterey and later
 - **Architectures**: Universal binary (Apple Silicon arm64 & Intel x86_64)
+
+## Highlights 
+- All views
+<img width="1780" height="1041" alt="all views" src="https://github.com/user-attachments/assets/85593df6-e8fc-451f-aafe-15dcd19301e9" />
+
+<img width="283" height="950" alt="All" src="https://github.com/user-attachments/assets/6884151d-26e9-4eee-a41c-cc22babc323c" />
+
+
+
