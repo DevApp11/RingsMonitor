@@ -14,18 +14,25 @@ Stay on top of your Mac’s performance with RingsMonitor. Multiple translucent 
 
 ## Highlights 
 - All views
-<img width="1780" height="1041" alt="all views" src="https://github.com/user-attachments/assets/85593df6-e8fc-451f-aafe-15dcd19301e9" />
+<img width="2880" height="1800" alt="3_all_views_proper_v2_with_top_frame_desc_2880x1800" src="https://github.com/user-attachments/assets/ba32e85e-a829-48b6-87a2-3ef8f5fc6674" />
 
+- Monitor CPU, RAM, storage, and network speeds in real-time from your Mac's menu bar.
+<img width="2880" height="1800" alt="2_Status_menu_bar_with_frame_2880x1800" src="https://github.com/user-attachments/assets/04bef7e9-e6c7-484c-a89f-4613f7714edb" />
+
+ 
 - Customise widget background
-<img width="1785" height="1046" alt="real" src="https://github.com/user-attachments/assets/3ac1114d-90eb-4627-a6fa-9ad8e1cb8c7a" />
+ <img width="2880" height="1800" alt="4_Adjust_the_background_opacity_with_frame_2880x1800" src="https://github.com/user-attachments/assets/2291e708-481b-42fb-a713-693b851cf1fe" />
 
-<img width="283" height="950" alt="All" src="https://github.com/user-attachments/assets/6884151d-26e9-4eee-a41c-cc22babc323c" />
 
+<img width="1280" height="800" alt="8_All" src="https://github.com/user-attachments/assets/fb52ed49-55c3-48f6-bd98-eacaf8ef5fc7" />
+
+ 
 - Relocating the views on Desktop
-<img width="1786" height="1039" alt="relocation" src="https://github.com/user-attachments/assets/8f6c3e31-4fd6-42bd-952b-2109cdc23566" />
+<img width="2880" height="1800" alt="5_relocation_proper_v2_with_frame_2880x1800" src="https://github.com/user-attachments/assets/bd1bba7c-6442-4659-bb60-e46b27ea6ec0" />
+
 
 - Customise settings to change ring color, font color, font size and more
-<img width="1786" height="1039" alt="settings" src="https://github.com/user-attachments/assets/a6c8db3b-bf1c-45c1-93c0-8e03a77dfdb1" />
+ <img width="2880" height="1800" alt="7_settings_proper_v2_with_frame_2880x1800" src="https://github.com/user-attachments/assets/c5b39bb4-dbb1-4966-a002-7f0ec1f4cf54" />
 
 
 
